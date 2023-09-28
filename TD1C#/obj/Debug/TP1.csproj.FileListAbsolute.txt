@@ -1,0 +1,6 @@
+/Users/djelassilenny/Projects/TP1/TP1/bin/Debug/TP1.exe
+/Users/djelassilenny/Projects/TP1/TP1/bin/Debug/TP1.pdb
+/Users/djelassilenny/Projects/TP1/TP1/obj/Debug/TP1.csproj.AssemblyReference.cache
+/Users/djelassilenny/Projects/TP1/TP1/obj/Debug/TP1.csproj.CoreCompileInputs.cache
+/Users/djelassilenny/Projects/TP1/TP1/obj/Debug/TP1.exe
+/Users/djelassilenny/Projects/TP1/TP1/obj/Debug/TP1.pdb
